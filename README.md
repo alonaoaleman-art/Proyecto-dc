@@ -6,4 +6,4 @@
 
 [Reporte limpieza de datos ](https://drive.google.com/file/d/15NT-tRMcslyUbuBOS4ehl8OnFt8KHYqV/view?usp=sharing)
 
-[Basee de datos limpia Versio 2 ](https://drive.google.com/file/d/1bmU7dKq-3eGRqrEloyXvCHeAo3XMpWEr/view?usp=sharing)
+[Basee de datos limpia Version 2 ](https://drive.google.com/file/d/1bmU7dKq-3eGRqrEloyXvCHeAo3XMpWEr/view?usp=sharing)
