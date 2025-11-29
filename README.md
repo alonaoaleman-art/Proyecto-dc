@@ -16,7 +16,8 @@
 
 [REPORTE FINAL ](https://drive.google.com/file/d/1v2GGwv2AXvs9-yWsMI0dhRBfADV10zzE/view?usp=sharing)
 
-[VIDEO]()
+[VIDEO](https://drive.google.com/file/d/1cBhqagB1O6imEJYOOD9rr-LMaoHO8GYm/view?usp=sharing)
 
 [DASHBOARD](https://acrobat.adobe.com/id/urn:aaid:sc:va6c2:151def68-be9a-48d3-b4c6-20558aab7d05)
-[INTERPRETACION DEL DASHBOARD]()
+
+[INTERPRETACION DEL DASHBOARD](https://drive.google.com/file/d/1riw8TUQVCOrBhCcruBHGv9mfX64-AQHB/view?usp=sharing)
