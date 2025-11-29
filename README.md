@@ -14,6 +14,8 @@
 
 [Codigo machine learning](https://drive.google.com/file/d/1N-Ekd7vF1jptU14CHkEmCm-iNM5zwYrE/view?usp=sharing)
 
+[REPORTE FASE 1](https://drive.google.com/file/d/1BTZj8azx9yASno_3j1_WP4WoU_5JG92j/view?usp=sharing)
+
 [REPORTE FINAL ](https://drive.google.com/file/d/1v2GGwv2AXvs9-yWsMI0dhRBfADV10zzE/view?usp=sharing)
 
 [VIDEO](https://drive.google.com/file/d/1cBhqagB1O6imEJYOOD9rr-LMaoHO8GYm/view?usp=sharing)
